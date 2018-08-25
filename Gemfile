@@ -30,3 +30,6 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # Github pages
 gem 'github-pages', '>=191', group: :jekyll_plugins
+
+# Post compositor
+gem 'jekyll-compose', group: [:jekyll_plugins]
