@@ -10,5 +10,5 @@ So my dreamjob is assembling ideas and be able to develop some of those ideas, I
 
 Not that I do like my job, I just like R&D more. Unfortunately the headhunters I spoke the last 15 years didn't want to put me in R&D, which is a shame.
 
-A year ago I created a web app called [egoconf]: https://github.com/egoconf/egoconf and I really like to develop that further. I would like to sell that app for at least 3 million euro, then I can live from the interest on that amount of money, and maybe I'm able to develop egoconf further as a consultant.  
+A year ago I created a web app called [egoconf](https://github.com/egoconf/egoconf) and I really like to develop that further. I would like to sell that app for at least 3 million euro, then I can live from the interest on that amount of money, and maybe I'm able to develop egoconf further as a consultant.  
 I have some other ideas, but thanks to my medical condition and lack of time, I'm mostly unable to explore those paths deeper.
