@@ -33,3 +33,6 @@ gem 'github-pages', '>=191', group: :jekyll_plugins
 
 # Post compositor
 gem 'jekyll-compose', group: [:jekyll_plugins]
+
+# For Google Analytics
+gem 'jekyll-seo-tag'
