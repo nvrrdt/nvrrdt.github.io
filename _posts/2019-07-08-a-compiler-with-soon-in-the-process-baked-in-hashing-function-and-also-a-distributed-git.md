@@ -8,5 +8,3 @@ Ok, you start with writing a compiler from the ground up and bootstrapping it in
 Create source code, hash, distribute, compare hashes, continue/block.  
 This way malicious hacking is prevented, even if the hardware has been adapted, because the earliest commits of the compiler will be the same and the next commits will be controllable and comparable.  
 It should be an ever controling mechanism, not sitting still.  
-I hope this is clear and enough explanation as a starting point.  
-I really need to start developing code soon as I'm in time shortage.

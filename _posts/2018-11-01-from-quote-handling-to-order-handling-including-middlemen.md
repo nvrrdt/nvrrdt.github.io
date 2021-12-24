@@ -1,6 +1,6 @@
 ---
 layout: post
-title: From quoate handling to order handling including middlemen
+title: From quote handling to order handling including middlemen
 date: 2018-11-01 10:41 +0100
 ---
 It's a well known problem, mostly in the ordering process, that people don't know what references, from i.e. seller, middleman and buyer, exactly mean and to what project or internal references they reference. It's a referencing problem.

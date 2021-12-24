@@ -17,7 +17,7 @@ total sales office cypher + <factory reference[...]><contact reference[...]><pro
 Maybe including a cypher version number to enable more possible versions of the cypher simultaniously. Or make the cypher adaptable ...
 
 The further in the process the longer the cypher. Maybe timestamps can be included.
-A base58 hash of every step's cypher to shorten the string?
+A base58 hash of every step's cypher to make the string readable?
 
 I want to construct a website with all projects included, preferably decentralised running projects with centralised finalised projects.
 Search with a hash, see the stage of the project and it's details.
